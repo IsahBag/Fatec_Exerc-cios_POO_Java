@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Ex04_aula03 {
+public class Compra {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

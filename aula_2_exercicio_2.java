@@ -1,6 +1,6 @@
 // Aula 02 - Ex. 02: Dada uma temperatura em Celcius, corvertê-la para Fahrenheit.
 
-public class Ex02{
+public class ConversorTemperatura{
     public static void main(String args[]) {
         
         Scanner input = new Scanner (System.in);

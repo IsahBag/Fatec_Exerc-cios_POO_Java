@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Ex02_aula03 {
+public class Triangulo {
     public static void main(String args[]){
 
         Scanner input = new Scanner(System.in);

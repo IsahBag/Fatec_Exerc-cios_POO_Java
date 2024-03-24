@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Ex01{
+public class ConversorMoeda{
 	public static void main(String args[]) {
 
 		Scanner input = new Scanner (System.in);

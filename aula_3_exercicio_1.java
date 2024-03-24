@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Ex01_aula03{
+public class MetodosString{
     public static void main(String args[]){
 
 // 1. Retornando uma string formatada com format():
