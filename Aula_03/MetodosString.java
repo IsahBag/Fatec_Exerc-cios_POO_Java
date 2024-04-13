@@ -15,20 +15,20 @@ public class MetodosString{
 
         String resultado = String.format("%d + %d = %d", a, b, soma);
 
-        System.out.print(resultado);
+        System.out.println(resultado);
 
 // 2. Convertendo uma string em letras minúsculas com toLowerCase():
 
         String saudacao = "BOM DIA!";
         String saudacao_lowercase = saudacao.toLowerCase();
 
-        System.out.print(saudacao_lowercase);
+        System.out.println(saudacao_lowercase);
 
 // 3. Concatenando duas strings:
 
         String s1 = "Olá!";
         String s2 = s1.concat("Tudo bem?");
 
-        System.out.print(s2);
+        System.out.println(s2);
     }
 }

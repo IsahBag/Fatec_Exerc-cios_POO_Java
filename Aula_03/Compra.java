@@ -12,15 +12,17 @@ public class Compra {
         do {
             System.out.print("Digite o valor do produto: ");
             valor = input.nextFloat();
-            if (valor <= 50.0)
-                total += valor * 0.95;
-            else if (valor <= 100.0)
-                total += valor * 0.9;
-            else if (valor <= 200.0)
-                total += valor * 0.85;
-            else
-                total += valor * 0.8;
+            total += valor;
         } while (valor != 0.0);     
+
+        if (total <= 50.0)
+            total *= 0.95;
+        else if (total <= 100.0)
+            total *= 0.9;
+        else if (total <= 200.0)
+            total *= 0.85;
+        else
+            total *= 0.8;
     
         System.out.printf("Total da compra: %.2f", total);
     } 

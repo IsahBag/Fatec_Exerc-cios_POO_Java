@@ -10,7 +10,7 @@ public class TesteSobrecarga {
 
         System.out.print("Digite o valor de um dos lados do retângulo: ");
         ret_ladoa = input.nextDouble();
-        System.out.print("Digite o valor do outro lado do triângulo: ");
+        System.out.print("Digite o valor do outro lado do retângulo: ");
         ret_ladob = input.nextDouble();
         System.out.print("Digite o valor do lado do quadrado: ");
         quad_lados = input.nextDouble();

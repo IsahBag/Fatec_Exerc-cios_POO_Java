@@ -14,6 +14,6 @@ public class ConversorMoeda{
         real = input.nextDouble();
         dolar = real * 4.96;
 
-        System.out.printf("O valor correspondente em dólar é $ %7.2f\n", dolar);
+        System.out.printf("O valor correspondente em dólar é $%7.2f\n", dolar);
 	}
 }

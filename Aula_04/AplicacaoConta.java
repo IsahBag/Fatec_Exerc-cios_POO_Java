@@ -38,6 +38,6 @@ public class AplicacaoConta
                System.out.println("Opcao invalida\n"); 
                break;
          }
-      }while( esc != 4 );
+      }while( escolha != 4 );
    }
 }
