@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 public class Compra {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
 
         Scanner input = new Scanner(System.in);
         float valor;

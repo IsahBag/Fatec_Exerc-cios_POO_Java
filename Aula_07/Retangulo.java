@@ -21,7 +21,10 @@ class Retangulo {
     }
 
     public void setBase(double b) {
-          base = b;
+        if (b > 0)
+            base=b;
+        else
+            base=0;
     }
 
     public double getBase(){
@@ -29,7 +32,10 @@ class Retangulo {
     }
 
      public void setAltura(double a) {
-          altura = a;
+        if (a > 0)
+            altura = a;
+        else
+            altura = 0;
     }
 
     public double getAltura(){

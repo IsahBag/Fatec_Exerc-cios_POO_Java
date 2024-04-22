@@ -1,3 +1,4 @@
 .vscode
-/JGrasp 
-/service-fabric-java-quickstart 
+service-fabric-java-quickstart
+*.pdf
+*.docx
