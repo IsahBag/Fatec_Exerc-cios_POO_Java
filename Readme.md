@@ -2,6 +2,8 @@
 
 *Repositório com todos os exercícios propostos na matéria de Programação Orientada à Objetos da FATEC, utilizando a linguagem Java.*
 
+![Java icon](/icon/icons8-java-48.png)
+
 ## 💻 Tecnologias utilizadas:
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Java Extensions for VSCode](https://code.visualstudio.com/docs/java/extensions)
