@@ -1,3 +1,12 @@
+// Criar uma subclasse 'Caminhão' com:
+// i) atributos específicos:
+// - capacidade  
+// - número de eixos
+// ii) métodos:
+// - construtor
+// - sets e gets específicos
+// - impressão dos dados do caminhão
+
 public class Caminhao extends Veiculo{
 
     private int capacidade, nEixos;

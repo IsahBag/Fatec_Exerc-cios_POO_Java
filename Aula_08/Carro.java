@@ -1,3 +1,12 @@
+// Criar uma subclasse 'Carro' com:
+// i) atributos específicos:
+// - número de portas  
+// - ano do modelo
+// ii) métodos:
+// - construtor
+// - sets e gets específicos
+// - impressão dos dados do carro
+
 public class Carro extends Veiculo {
 
     private int nPortas, anoModelo;
