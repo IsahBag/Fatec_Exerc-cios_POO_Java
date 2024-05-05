@@ -11,6 +11,7 @@
 
 
 public class Veiculo{
+
     protected String modelo, placa;
     protected int anoFabricacao;
     protected double valor;
@@ -67,5 +68,4 @@ public class Veiculo{
                           "Ano: %4d\n" +
                           "Valor: R$ %.2f\n", modelo, placa, anoFabricacao, valor);
     }
-
 }
