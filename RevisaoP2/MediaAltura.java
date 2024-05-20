@@ -9,7 +9,7 @@ public class MediaAltura
     {
         int acima_media=0;
         double media=0, soma=0;
-        double[] alturas = new double[20];
+        double alturas[] = new double[20];
         Scanner input = new Scanner(System.in);
 
         for(int i = 0; i < 20; i++)
